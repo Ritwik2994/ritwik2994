@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Ritwik2994/ritwik2994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/pcWeGQTs">
   <img align="left" alt="Ritwik's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-taught Python and Full Stack Web Developer 🚀 from India.
 
-  <img align="right" alt="GIF" src="https://github.com/ritwik2994/ritwik294/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Ritwik2994/ritwik2994/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -68,18 +68,12 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/ritwik2994" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  6,886 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 524 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
+<!--
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="ritwik2994" />
 
-
+-->
 
