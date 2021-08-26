@@ -70,7 +70,7 @@ No Activity tracked this Week
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ritwik2994&show_icons=true&theme=gotham" alt="ritwik2994" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ritwik2994&show_icons=true&theme=gotham" alt="ritwik2994" />
 
 
 <!-- Most used languages -->
