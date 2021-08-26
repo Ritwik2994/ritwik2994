@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-taught Python and Full Stack Web Developer 🚀 from India.
+Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-taught Python and Full Stack Web Developer 🚀 from India .
 
   <img align="right" alt="GIF" src="https://github.com/Ritwik2994/ritwik2994/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Deep Learning; 
+- 🌱 I’m currently learning Microservices and  GrraphQL; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ritwik2994](https://twitter.com/ritwik2994);
 - 📝[Resume](https://drive.google.com/file/d/1DS9NeCJEsqMGNQsUDUQr-Xv8Fk_yh3ba/view)
@@ -47,9 +47,12 @@ Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-ta
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -64,16 +67,15 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/ritwik2994" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-
-<!--
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="ritwik2994" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ritwik2994&show_icons=true&theme=gotham" alt="ritwik2994" />
 
--->
+
+<!-- Most used languages -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritwik2994&layout=compact)]
+
+
+
 
