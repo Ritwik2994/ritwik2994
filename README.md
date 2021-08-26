@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/ritwik2994">
   <img align="left" alt="Ritwik Rohitashwa | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ritwik-rohitashwa-921155160/">
+<a href="https://www.linkedin.com/in/ritwik-rohitashwa/">
   <img align="left" alt="Ritwik's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -42,7 +42,7 @@ Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-ta
 - 🌱 I’m currently learning Microservices and  GrraphQL; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ritwik2994](https://twitter.com/ritwik2994);
-- 📝[Resume](https://drive.google.com/file/d/1DS9NeCJEsqMGNQsUDUQr-Xv8Fk_yh3ba/view)
+- 📝[Resume](https://drive.google.com/file/d/1mCYcZtDInuEgPu73B95IOo2O2_o0Yh31/view)
 
 **Languages and Tools:**  
 
@@ -54,10 +54,10 @@ Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-ta
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **This Week I Spent My Time On:**
