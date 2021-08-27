@@ -79,9 +79,7 @@ Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-ta
 
 <!--START_SECTION:waka-->
 ```text
-YAML         22 mins         ███████████▓░░░░░░░░░░░░░   47.22 % 
-Markdown     21 mins         ███████████▓░░░░░░░░░░░░░   46.26 % 
-JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+
 ```
 <!--END_SECTION:waka-->
 
@@ -90,10 +88,7 @@ JavaScript   2 mins          █▒░░░░░░░░░░░░░░░
 ## 🚧 **my todoist stats:**
 
 <!-- TODO-IST:START -->
-🏆  257 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 1 tasks so far           
-⏳  Longest streak is 0 days
+ 
 <!-- TODO-IST:END -->
 
 <br />
