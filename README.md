@@ -62,9 +62,10 @@ Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-ta
 📊 **This Week I Spent My Time On:**
 
 <!-- TODO-IST:START -->
-```text
-No Activity tracked this week
-```
+🏆  200 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 0 tasks so far           
+⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
 📈 My GitHub Stats
