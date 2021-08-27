@@ -58,8 +58,17 @@ Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-ta
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 
+📊 **this week i spent my time on:**
 
-📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+
+```
+<!--END_SECTION:waka-->
+
+
+
+🚧 **my todoist stats:**
 
 <!-- TODO-IST:START -->
 🏆  200 Karma Points           
