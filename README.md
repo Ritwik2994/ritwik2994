@@ -60,11 +60,11 @@ Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-ta
 
 
 📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
+<!--TODO-IST:START-->
 ```text
 No Activity tracked this Week
 ```
-<!--END_SECTION:waka-->
+<!--TODO-IST:END-->
 
 
 📈 My GitHub Stats
