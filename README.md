@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=ritwik2994.ritwik2994)
 
 <br />
+<p>
 
 Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-taught Python and Full Stack Web Developer 🚀 from India .
 
@@ -44,7 +45,9 @@ Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-ta
 - 📫 How to reach me: [@ritwik2994](https://twitter.com/ritwik2994);
 - 📝[Resume](https://drive.google.com/file/d/1mCYcZtDInuEgPu73B95IOo2O2_o0Yh31/view)
 
-<br>
+  </p>
+  
+<br />
 
 ### 🔨 Languages and Tools:
 
@@ -57,17 +60,19 @@ Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-ta
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 
-<br>
+<br />
 
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  
+  <a href="">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ritwik2994's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ritwik2994&theme=monokai-metallian&hide_border=true"/>
   
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </a>
 </p>
+
+<br />
 
 
 📊 **this week i spent my time on:**
@@ -80,7 +85,7 @@ JavaScript   2 mins          █▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
+<br />
 
 🚧 **my todoist stats:**
 
@@ -90,6 +95,8 @@ JavaScript   2 mins          █▒░░░░░░░░░░░░░░░
 ✅  Completed 1 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
+
+<br />
 
 ## 📊 Github stats
 
@@ -102,7 +109,7 @@ JavaScript   2 mins          █▒░░░░░░░░░░░░░░░
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
+<br />
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <details>
