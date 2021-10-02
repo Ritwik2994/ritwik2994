@@ -79,11 +79,11 @@ Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-ta
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   12 hrs 4 mins   █████████████████░░░░░░░░   67.76 % 
-TypeScript   3 hrs 18 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.61 % 
-HTML         1 hr 28 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Bash         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JavaScript   11 hrs 45 mins  ████████████████████▓░░░░   83.14 % 
+HTML         1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+Bash         42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 
