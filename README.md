@@ -79,7 +79,7 @@ Hi, I'm [Ritwik Rohitashwa!](https://ritwik.hashnode.dev/), a passionate self-ta
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 36 mins   █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
